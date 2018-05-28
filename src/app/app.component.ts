@@ -20,3 +20,13 @@ export class MyApp {
   }
 }
 
+
+
+/*
+target=android-26
+android.library.reference.1=CordovaLib
+cordova.gradle.include.1=cordova-plugin-googlemaps/starter-tbxml-android.gradle
+cordova.system.library.1=com.google.android.gms:play-services-maps:12.0.1
+cordova.system.library.2=com.google.android.gms:play-services-location:12.0.1
+cordova.system.library.3=com.android.support:support-core-utils:24.1.0 
+*/
